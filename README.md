@@ -157,9 +157,9 @@
 
 ## 🔗 相关资源
 
-- **产品数据 API**：[products.json](https://github.com/foxbabby/gongjian-catalog/blob/main/products.json)
+- **产品数据 API**：[products.json](https://github.com/foxbabby/gongjian-catalog/blob/master/products.json)
 - **ClawHub 技能页面**：[gongjian-catalog](https://clawhub.ai/skills/gongjian-catalog)
-- **抖音 AI 数字人知识库**：[douyin-knowledge-base](https://github.com/foxbabby/gongjian-catalog/tree/main/douyin-knowledge-base)
+- **抖音 AI 数字人知识库**：[douyin-knowledge-base](https://github.com/foxbabby/gongjian-catalog/tree/master/douyin-knowledge-base)
 
 ---
 
