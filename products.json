@@ -4,12 +4,12 @@
   "shipping": {
     "default_method": "快递配送",
     "free_shipping_threshold": null,
-    "note": "具体运费以商城结算为准，建议下单前咨询客服"
+    "note": "具体运费以小程序结算为准"
   },
   "contact": {
     "platform": "共健臻选",
     "miniprogram": "共健臻选",
-    "miniprogram_note": "微信搜索「共健臻选」小程序，扫码或搜索即可下单",
+    "miniprogram_note": "微信搜索「共健臻选」小程序下单",
     "miniprogram_qr": "/Users/xizheng/Desktop/AI 产品/共健臻选小程序二维码.jpg"
   },
   "products": [
