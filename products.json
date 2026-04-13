@@ -1,6 +1,5 @@
 {
-  "source": "https://health.goodorder.com.cn:9580",
-  "source_type": "CRMEB Java 电商系统",
+  "source": "共健臻选产品目录",
   "updated": "2026-04-13",
   "shipping": {
     "default_method": "快递配送",
@@ -9,9 +8,8 @@
   },
   "contact": {
     "platform": "共健臻选",
-    "url": "https://health.goodorder.com.cn:9580/store/index",
     "miniprogram": "共健臻选",
-    "miniprogram_note": "微信搜索「共健臻选」小程序，可直接下单"
+    "miniprogram_note": "微信搜索「共健臻选」小程序，扫码或搜索即可下单"
   },
   "products": [
     {
